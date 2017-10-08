@@ -49,7 +49,7 @@ namespace Recognition
         {
             imgOrginal = webCam.QueryFrame().ToImage <Bgr,byte>();
             if (imgOrginal == null) return;
-            imgProcessed = imgOrginal.InRange(new Bgr ( 0,125,0), new Bgr(110, 256, 110)); 
+            imgProcessed = imgOrginal.InRange(new Bgr ( 0,120,0), new Bgr(120, 256, 130)); 
             imgProcessed = imgProcessed.SmoothGaussian(9);
             CircleF[] circles = imgProcessed.HoughCircles(new Gray(100),
                 new Gray(50),
