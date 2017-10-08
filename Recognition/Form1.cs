@@ -12,6 +12,7 @@ using Emgu.CV;
 using Emgu.CV.UI;
 using Emgu.CV.CvEnum;
 using Emgu.CV.Structure;
+using System.Threading;
 
 
 namespace Recognition
@@ -31,7 +32,6 @@ namespace Recognition
 
         private void Form1_Load(object sender, EventArgs e)
         {
-         
             try
             {
                 webCam = new VideoCapture(0);

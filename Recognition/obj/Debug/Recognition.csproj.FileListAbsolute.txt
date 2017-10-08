@@ -22,11 +22,6 @@ C:\Users\Paulius\Documents\Visual Studio 2017\Projects\Recognition\Recognition\o
 C:\Users\Paulius\Documents\Visual Studio 2017\Projects\Recognition\Recognition\obj\Debug\Recognition.csproj.CoreCompileInputs.cache
 C:\Users\Paulius\Documents\Visual Studio 2017\Projects\Recognition\Recognition\obj\Debug\Recognition.exe
 C:\Users\Paulius\Documents\Visual Studio 2017\Projects\Recognition\Recognition\obj\Debug\Recognition.pdb
-C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\References\concrt140.dll
-C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\References\cvextern.dll
-C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\References\msvcp140.dll
-C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\References\opencv_ffmpeg320_64.dll
-C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\References\vcruntime140.dll
 C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\Recognition.exe.config
 C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\Recognition.exe
 C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\Recognition.pdb
@@ -46,3 +41,8 @@ C:\Users\Paulius\Documents\GitHub\recognition\Recognition\obj\Debug\Recognition.
 C:\Users\Paulius\Documents\GitHub\recognition\Recognition\obj\Debug\Recognition.csproj.CoreCompileInputs.cache
 C:\Users\Paulius\Documents\GitHub\recognition\Recognition\obj\Debug\Recognition.exe
 C:\Users\Paulius\Documents\GitHub\recognition\Recognition\obj\Debug\Recognition.pdb
+C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\concrt140.dll
+C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\cvextern.dll
+C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\msvcp140.dll
+C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\opencv_ffmpeg320_64.dll
+C:\Users\Paulius\Documents\GitHub\recognition\Recognition\bin\Debug\vcruntime140.dll
